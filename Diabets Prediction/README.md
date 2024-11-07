@@ -1,4 +1,3 @@
-# Data-Science
 # Multiverse Of Data Science Projects
 # 🚀 Welcome to the Multiverse of Basic Data Science Projects 🌐
 
