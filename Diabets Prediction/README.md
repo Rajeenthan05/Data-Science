@@ -3,7 +3,7 @@
 # 01. Diabetic Prediction ML
 
 
-💻 GitHub: https://github.com/Rajeenthan05/
+💻 GitHub: https://github.com/Rajeenthan05/ <br> <br>
 📘 Facebook: https://www.facebook.com/kajan.rajaratnam.7
 📸 Instagram: https://www.instagram.com/rajeenthan_05/
 
