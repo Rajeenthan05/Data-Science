@@ -1,5 +1,6 @@
-# Multiverse Of Data Science Projects
+
 # 🚀 Welcome to the Multiverse of Basic Data Science Projects 🌐
+# 01. Diabetic Prediction ML
 
 
 💻 GitHub: https://github.com/Rajeenthan05/
