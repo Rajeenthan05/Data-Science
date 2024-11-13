@@ -10,3 +10,4 @@
 #### 01. Diabetic Prediction ML
 #### 02. Resume Screening python
 #### 03. MCQs Questions App Using ML & NLP 
+#### 04. Plagiarism Detector
