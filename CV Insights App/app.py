@@ -71,7 +71,10 @@ def main():
         st.write("Predicted Category:", category_name)
 
 
-
+ cleaned_resume = clean_resume(resume_text)
+        input_features = tfidfd.transform([cleaned_resume])
+        prediction_id = clf.predict(input_features)[0]
+        st.write(prediction_id)
 # python main
 if __name__ == "__main__":
     main()
